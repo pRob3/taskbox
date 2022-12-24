@@ -74,6 +74,10 @@ A quick look at the top-level files and directories included with this template.
 
 9.  **`README.md`**: A text file containing useful reference information about the project.
 
+## Popular Addons
+
+[storybook.js.org/integrations](https://storybook.js.org/integrations)
+
 ## Contribute
 
 If you encounter an issue with the template, we encourage you to open an issue in this template's repository.
